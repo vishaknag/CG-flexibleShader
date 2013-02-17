@@ -24,7 +24,7 @@ Graphics renderer : supports Flat-shading and Phong-shading (full Phong shading 
 
 * The direction vector is only valid for directional lights and it is the vector from the scene to the light in image-space.  
   Direction is constant since we're assuming the light is very far away.  Ambient light direction has no meaning and is not used.
-  
+
 ------------------------------------------------------------------------------------
 token						value type	
 -----------			     	--------
